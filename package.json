@@ -1,0 +1,9 @@
+{
+  "name": "@scover/randomid_generator",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "SCOVER",
+  "license": "MIT"
+}
